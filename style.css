@@ -13,3 +13,14 @@ body {
 p {
     color: white;
 }
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    position:static;
+}
+
+.movie_head i {
+    float: right;
+}
