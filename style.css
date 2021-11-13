@@ -24,3 +24,11 @@ p {
 .movie_head i {
     float: right;
 }
+#hibrid {
+    width: 30%;
+    height: 35%;
+    padding-bottom:10px;
+}
+#texto1{
+    color:white;
+}
